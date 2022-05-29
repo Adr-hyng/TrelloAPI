@@ -1,0 +1,5 @@
+Sorting = pos and ID and swapping
+
+Updating balance = update custom field
+
+Update Description - Paramaters(int Amount, string typeExpenses, string time)
